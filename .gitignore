@@ -67,7 +67,7 @@ results/
 predictions/
 *.jpg
 *.jpeg
-*.png
+# *.png
 *.gif
 *.bmp
 *.tiff
